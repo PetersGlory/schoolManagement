@@ -1,0 +1,4 @@
+hi, to get this working you will have to create a database called 'dbschool'
+ after installation go to the administrative tasks under it you will have to add 
+a dorminatory at the dominatories under the administrative tasks then you can add students
+and instructors.
